@@ -15,5 +15,6 @@ My name is Chenyun Zhang. I'm a software engineering student. I currently live i
 
 - ✨[Medium](https://medium.com/@morningchenyun)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=midnight-purple)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=buefy)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=buefye&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=rotten_potato.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
