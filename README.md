@@ -11,6 +11,6 @@ My name is Chenyun Zhang. I'm a software engineering student. I currently live i
 ### 📫 Where to find me
 - [LinkedIn](www.linkedin.com/in/tracy-zhang-link816) 
 
--[Medium](https://medium.com/@morningchenyun)
+- [Medium](https://medium.com/@morningchenyun)
 
 ![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
