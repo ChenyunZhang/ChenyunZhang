@@ -3,7 +3,7 @@
 I'm Chenyun.
 
 I have a passion for learning and sharing my knowledge with others a public as possible.
-[![Header(https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)]
+(https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
