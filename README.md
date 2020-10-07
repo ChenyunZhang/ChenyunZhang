@@ -13,6 +13,8 @@ My name is Chenyun Zhang. I'm a software engineering student. I currently live i
 
 - ✨[Medium](https://medium.com/@morningchenyun)
 
-[![Chenyun's github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang)](https://github.com/ChenyunZhang/github-readme-stats)
+![Chenyun's github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&count_private=true)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang)](https://github.com/ChenyunZhang/github-readme-stats)
 
 ![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
