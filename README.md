@@ -4,7 +4,7 @@ My name is Chenyun Zhang. I'm a software engineering student. I currently live i
 
 ![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
 
-### About me 
+### 🐶About me 
 - 🌱 I’m currently learning React
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
 - 😄 Pronouns: she/her
