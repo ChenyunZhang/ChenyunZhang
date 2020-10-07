@@ -15,8 +15,7 @@ My name is Chenyun Zhang. I'm a software engineering student. I currently live i
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=midnight-purple)](https://github.com/ChenyunZhang/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact)](https://github.com/ChenyunZhang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang)](https://github.com/ChenyunZhang/github-readme-stats)
 
-[![Chenyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChenyunZhang)](https://github.com/ChenyunZhang/github-readme-stats)
 
 ![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
