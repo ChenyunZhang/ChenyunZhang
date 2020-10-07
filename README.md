@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋,
 
-<!--
-**ChenyunZhang/ChenyunZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chenyun.
 
-Here are some ideas to get you started:
+I have a passion for learning and sharing my knowledge with others a public as possible.
+[![Header](https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I don't like Pizza🍕🍕🍕
+
