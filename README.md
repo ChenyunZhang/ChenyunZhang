@@ -1,6 +1,6 @@
 ### Hello, Folks 👋,
 
-My name is Chenyun Zhang. I'm a software engineering student. I currently live in New York.  
+My name is Chenyun Zhang. Currently live and study in New York.  
 
 ![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
 
