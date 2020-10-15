@@ -2,8 +2,6 @@
 
 My name is Chenyun Zhang. Currently live and study in New York.  
 
-![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
-
 ### 🐶About me 
 - 🌱 I’m currently learning React.
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
@@ -17,3 +15,5 @@ My name is Chenyun Zhang. Currently live and study in New York.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=buefy)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=buefy&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=rotten_potato.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Image](https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true)
