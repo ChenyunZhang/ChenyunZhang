@@ -3,7 +3,7 @@
 My name is Chenyun Zhang. Currently live and study in New York.  
 
 ### 🐶About me 
-- 🌱 I’m currently learning React and Python.
+- 🌱 I’m currently learning React, data sturcture and Python.
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I dreamt to be a psychologist when I was little.
