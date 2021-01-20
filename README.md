@@ -1,7 +1,7 @@
 ### Hello, Folks 👋,
 
 My name is Chenyun Zhang. Currently live and study in New York.  
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 ### 🐶About me 
 - 🌱 I’m doing #100daysofcode. Follow me on twitter, and let's do the challenge together.
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
@@ -16,8 +16,6 @@ My name is Chenyun Zhang. Currently live and study in New York.
 </p>
 
 <hr/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HelloRusk&hide_title=true&show_icons=true&theme=tokyonight" />
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=buefy)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=buefy&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=rotten_potato.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
