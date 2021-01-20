@@ -7,13 +7,8 @@ My name is Chenyun Zhang. Currently live and study in New York.
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
 - 😄 Pronouns: she/her
 
-### 📫 Connect with me
-- ✨[LinkedIn]() 
-
-- ✨[Medium](https://medium.com/@morningchenyun)
-
-
 <p align="center">
+	<h3>📫 Connect with me</h3>
 	<a href="https://github.com/ChenyunZhang"><img src="https://img.shields.io/github/followers/ChenyunZhang.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/Ttrazcy"><img src="https://img.shields.io/twitter/follow/Ttrazcy?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="www.linkedin.com/in/tracy-zhang-link816"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
