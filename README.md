@@ -17,10 +17,8 @@ My name is Chenyun Zhang. Currently live and study in New York.
 
 <hr/>
 
-<div>
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
-</div>
 <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
-</div>
+	
 <img align='right' src='https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true' width='800'>
 
