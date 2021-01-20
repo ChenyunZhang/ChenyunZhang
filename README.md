@@ -13,7 +13,8 @@ My name is Chenyun Zhang. Currently live and study in New York.
 
 - ✨[Medium](https://medium.com/@morningchenyun)
 
-- http://i.imgur.com/tXSoThF.png[Twitter](https://twitter.com/Ttrazcy)
+- ![Image]https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[Twitter](https://twitter.com/Ttrazcy)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=buefy)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=buefy&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=rotten_potato.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
