@@ -13,9 +13,9 @@ My name is Chenyun Zhang. Currently live and study in New York.
 	<a href="https://twitter.com/Ttrazcy"><img src="https://img.shields.io/twitter/follow/Ttrazcy?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="www.linkedin.com/in/tracy-zhang-link816"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://medium.com/@morningchenyun"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>
-	
-	
 </p>
+
+<hr/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=buefy)](https://github.com/ChenyunZhang/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=buefy&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=codera&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenyunZhang&repo=rotten_potato.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
