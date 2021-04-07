@@ -11,7 +11,8 @@ My name is Chenyun Zhang. Currently live and study in New York.
 	<h3>📫 Connect with me</h3>
 	<a href="https://github.com/ChenyunZhang"><img src="https://img.shields.io/github/followers/ChenyunZhang.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/Ttrazcy"><img src="https://img.shields.io/twitter/follow/Ttrazcy?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/tracy-zhang-link816"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/chenyunzhang"><img src="https://img.shields.io/badge/-porfolio-blue" alt="LinkedIn"></a>
+	<a href="https://chenyun.bss.design/"><img src="https://chenyun.bss.design/" alt="portfoilo_site"></a>
 	<a href="https://medium.com/@morningchenyun"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>
 </p>
 
