@@ -17,10 +17,12 @@ My name is Chenyun Zhang. Currently live and work in New York.
 
 <hr/>
 	<h4>Check out my apps</h4>
-	<ul>
-		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></li>
-		<li><a href="https://codera-co.herokuapp.com/" target="_blank">Codera</a></li>
-	</ul>
+	<table>
+		<tr>
+			<td><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></td>
+			<td><a href="https://codera-co.herokuapp.com/" target="_blank">Codera</a></td>
+		</tr>
+	</table>
 <hr/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
