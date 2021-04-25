@@ -16,12 +16,15 @@ My name is Chenyun Zhang. Currently live and work in New York.
 </p> <a target="_blank" href="https://chenyunzhang.github.io/-/"><img src="https://img.shields.io/badge/-Porfolio-blue" alt="portfoilo_site"></a>
 
 <hr/>
+	<h4 style="text-align:center">Check out my apps</h4>
+	<ul>
+		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></li>
+	</ul>
+<hr/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 	
 <!-- <img align='center' src='https://github.com/ChenyunZhang/ChenyunZhang/blob/main/AC.jpg?raw=true'> -->
 
-<ul>
-<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></li>
-</ul>
+
