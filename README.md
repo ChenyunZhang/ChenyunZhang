@@ -16,9 +16,10 @@ My name is Chenyun Zhang. Currently live and work in New York.
 </p> <a target="_blank" href="https://chenyunzhang.github.io/-/"><img src="https://img.shields.io/badge/-Porfolio-blue" alt="portfoilo_site"></a>
 
 <hr/>
-	<h4 style="align:center;">Check out my apps</h4>
+	<h4>Check out my apps</h4>
 	<ul>
 		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></li>
+		<li><a href="https://codera-co.herokuapp.com/" target="_blank">Codera</a></li>
 	</ul>
 <hr/>
 
