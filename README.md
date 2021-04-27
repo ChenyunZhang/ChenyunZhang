@@ -13,7 +13,7 @@ My name is Chenyun Zhang. Currently live and work in New York.
 	<a href="https://twitter.com/Ttrazcy"><img src="https://img.shields.io/twitter/follow/Ttrazcy?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/chenyunzhang"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin%22%20alt=%22LinkedIn%22" alt="LinkedIn"></a>
 	<a href="https://medium.com/@morningchenyun"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>
-	<a target="_blank" href="https://chenyunzhang.github.io/-/"><img src="https://img.shields.io/badge/-Porfolio-white" alt="portfoilo_site"></a>
+	<a target="_blank" href="https://chenyunzhang.github.io/my-site/"><img src="https://img.shields.io/badge/-Porfolio-white" alt="portfoilo_site"></a>
 </p> 
 
 <hr/>
