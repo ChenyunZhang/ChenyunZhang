@@ -29,8 +29,8 @@ My name is Chenyun Zhang. Currently live and work in New York.
 		</tr>
 	</table> -->
 	<ul>
-		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">🌱Rotten Potatoes</a></li>
-		<li><a href="https://codera-co.herokuapp.com/" target="_blank">🌱Codera</a></li>
+		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">🌱 Rotten Potatoes</a></li>
+		<li><a href="https://codera-co.herokuapp.com/" target="_blank">🌱 Codera</a></li>
 	</ul>
 <hr/>
 	<h4>Side projects</h4>
