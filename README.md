@@ -3,7 +3,7 @@
 My name is Chenyun Zhang. Currently live and work in New York.  
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 ### 🐶About me 
-- 🌱 I’m doing #100daysofcode. Follow me on twitter, and let's do the challenge together.
+- 👩‍ I’m doing #100daysofcode. Follow me on twitter, and let's do the challenge together.
 - 👯 I have a passion for learning and sharing my knowledge with others a public as possible.
 - 😄 Pronouns: she/her
 
@@ -29,8 +29,8 @@ My name is Chenyun Zhang. Currently live and work in New York.
 		</tr>
 	</table> -->
 	<ul>
-		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a></li>
-		<li><a href="https://codera-co.herokuapp.com/" target="_blank">Codera</a></li>
+		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">🌱Rotten Potatoes</a></li>
+		<li><a href="https://codera-co.herokuapp.com/" target="_blank">🌱Codera</a></li>
 	</ul>
 <hr/>
 	<h4>Side projects</h4>
