@@ -34,6 +34,9 @@ My name is Chenyun Zhang. Currently live and work in New York.
 	</ul>
 <hr/>
 	<h4>Side projects</h4>
+	<ul>
+	<li><a href="https://chenyunzhang.github.io/side-project-drum/">🍃 Drum</li>
+	</ul>
 <hr/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
