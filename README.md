@@ -39,12 +39,9 @@ My name is Chenyun Zhang. Currently live and work in New York.
 	<td padding-left="150px"><a href="">🌱  Calculator</a></td>
 	</tr>
 <hr/>
-### Side projects
 
-First Header  | Second Header
+### Side projects
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 <a href="https://chenyunzhang.github.io/side-project-drum/">Drum</a>  | <a href="https://chenyunzhang.github.io/Side-project-calculator/">Calculator</a>
 
 
