@@ -42,7 +42,7 @@ My name is Chenyun Zhang. Currently live and work in New York.
 ### Side projects
 Left aligned Header | Right aligned Header | Center aligned Header
 | :--- | ---: | :---:
-<a href="https://chenyunzhang.github.io/side-project-drum/"></a>  | <a href="https://chenyunzhang.github.io/Side-project-calculator/"></a> | Content Cell
+<a href="https://chenyunzhang.github.io/side-project-drum/">Drum</a>  | <a href="https://chenyunzhang.github.io/Side-project-calculator/">Calculator</a> | Content Cell
 Content Cell  | Content Cell | Content Cell
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
