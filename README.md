@@ -35,14 +35,10 @@ My name is Chenyun Zhang. Currently live and work in New York.
 <hr/>
 	<table></table>
 	<tr>
-	<td padding-left="150px"><a href="">🌱  Drum</a></td>
-	<td padding-left="150px"><a href="">🌱  Calculator</a></td>
+	<td margin="150px"><a href="">🌱  Drum</a></td>
+	<td margin="150px"><a href="">🌱  Calculator</a></td>
 	</tr>
 <hr/>
-
-#### Side projects
---------------------------------------------------------------------- | --------------------------------------------------------------------------------
-<a href="https://chenyunzhang.github.io/side-project-drum/">Drum</a>  | <a href="https://chenyunzhang.github.io/Side-project-calculator/">Calculator</a>
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
