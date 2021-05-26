@@ -40,8 +40,8 @@ My name is Chenyun Zhang. Currently live and work in New York.
 	</tr>
 <hr/>
 
-### Side projects
-------------- | -------------
+#### Side projects
+--------------------------------------------------------------------- | --------------------------------------------------------------------------------
 <a href="https://chenyunzhang.github.io/side-project-drum/">Drum</a>  | <a href="https://chenyunzhang.github.io/Side-project-calculator/">Calculator</a>
 
 
