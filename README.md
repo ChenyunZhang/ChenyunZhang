@@ -33,11 +33,11 @@ My name is Chenyun Zhang. Currently live and work in New York.
 		<li><a href="https://codera-co.herokuapp.com/" target="_blank">🍀 Codera</a></li>
 	</ul>
 <hr/>
-	<h4>Side projects</h4>
-	<ul>
-	<li><a href="https://chenyunzhang.github.io/side-project-drum/">🌱  Drum</a></li>
-	<li><a href="https://chenyunzhang.github.io/Side-project-calculator/">🌱  Calculator</a></li>
-	</ul>
+	<table>Side projects</table>
+	<tr>
+	<td><a href="https://chenyunzhang.github.io/side-project-drum/">🌱  Drum</a></td>
+	<td><a href="https://chenyunzhang.github.io/Side-project-calculator/">🌱  Calculator</a></td>
+	</tr>
 <hr/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
