@@ -35,8 +35,8 @@ My name is Chenyun Zhang. Currently live and work in New York.
 <hr/>
 	<table></table>
 	<tr>
-	<td margin="150px"><a href="">🌱  Drum</a></td>
-	<td margin="150px"><a href="">🌱  Calculator</a></td>
+	<td margin="150px"><a href="">🌱     Drum</a></td>
+	<td margin="150px"><a href="">🌱     Calculator</a></td>
 	</tr>
 <hr/>
 
