@@ -36,6 +36,7 @@ My name is Chenyun Zhang. Currently live and work in New York.
 	<h4>Side projects</h4>
 	<ul>
 	<li><a href="https://chenyunzhang.github.io/side-project-drum/">🌱  Drum</a></li>
+	<li><a href="https://chenyunzhang.github.io/Side-project-calculator/">🌱  Calculator</a></li>
 	</ul>
 <hr/>
 
