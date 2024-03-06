@@ -16,28 +16,6 @@ My name is Chenyun Zhang. I currently live and work in New York, let's connect w
 	<a target="_blank" href="https://chenyunzhang.netlify.app/"><img src="https://img.shields.io/badge/-Porfolio-white" alt="portfoilo_site"></a>
 </p> 
 
-<hr/>
-	<h4>Check out my apps</h4>
-<!-- 	<table style="border:none;">
-		<tr>
-			<td>
-				<a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">Rotten Potatoes</a>
-			</td>
-			<td>
-				<a href="https://codera-co.herokuapp.com/" target="_blank">Codera</a>
-			</td>
-		</tr>
-	</table> -->
-	<ul>
-		<li><a href="https://jsapp-rotten-potatoes.herokuapp.com/" target="_blank">🍀 Rotten Potatoes</a></li>
-		<li><a href="https://codera-co.herokuapp.com/" target="_blank">🍀 Codera</a></li>
-	</ul>
-<hr/>
-	<ul>
-	<li ><a href="https://chenyunzhang.github.io/side-project-drum/">🌱 Drum</a></li>
-	</ul>
-<hr/>
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChenyunZhang&show_icons=true&theme=tokyonight)](https://github.com/ChenyunZhang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyunZhang&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/ChenyunZhang/github-readme-stats)
 	
